@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj": {}
+    "G:\\src\\ProcessHook\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj": {}
   },
   "projects": {
-    "G:\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj": {
+    "G:\\src\\ProcessHook\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj",
+        "projectUniqueName": "G:\\src\\ProcessHook\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj",
         "projectName": "RestoreHook",
-        "projectPath": "G:\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj",
+        "projectPath": "G:\\src\\ProcessHook\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "G:\\src\\RestoreHook\\src\\RestoreHook\\obj\\",
+        "outputPath": "G:\\src\\ProcessHook\\src\\RestoreHook\\src\\RestoreHook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\vsshared\\NuGetPackages"
@@ -58,7 +58,7 @@
         }
       },
       "runtimes": {
-        "win7-x64": {
+        "win7-x86": {
           "#import": []
         }
       }

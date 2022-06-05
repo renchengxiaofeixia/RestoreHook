@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SV05D5v8Q7M7NgKPdHr6w+t7Fye7gul0iOUxD2uZOiM42D4C0JsJH+RMcgmGZChRtaSvVarwzZKG1Wl0YuJyxw==",
+  "dgSpecHash": "FbVD1oVsvwhS5AwEuwt+FbcpqYPSX/omM4bfdbVRYIRLiZSfmQzB9ae7h+QG0kEL4XeKRiiGUVAS+BG6y7GAyQ==",
   "success": true,
-  "projectFilePath": "G:\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj",
+  "projectFilePath": "G:\\src\\ProcessHook\\src\\RestoreHook\\src\\RestoreHook\\RestoreHook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\fasm.net\\1.70.3\\fasm.net.1.70.3.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\memorysharp\\1.2.0\\memorysharp.1.2.0.nupkg.sha512",
